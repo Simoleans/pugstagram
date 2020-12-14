@@ -1,8 +1,4 @@
-<script>
-  export let nickname;
-  export let name;
 
-</script>
 <style>
     .Profile-content {
       display: flex;
