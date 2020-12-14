@@ -33,8 +33,8 @@
             <img src="https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-9/18301081_10212289253890666_4322141994736506518_n.jpg?_nc_cat=103&ccb=2&_nc_sid=09cbfe&_nc_ohc=_B124jNpy8YAX9-gRJr&_nc_ht=scontent-mia3-2.xx&oh=3e85467854301f3762fdd49d468a66d8&oe=5FFC488A" alt="Fran Hernandez">
         </div>
         <div class="Profile-info">
-            <h2>{nickname}</h2>
-            <span>{name}</span>
+            <h2>FutFran</h2>
+            <span>Fran Hernandez</span>
         </div>
     </div>
 </div>
