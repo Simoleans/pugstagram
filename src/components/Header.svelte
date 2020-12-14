@@ -107,7 +107,6 @@
                 <ul>
                     <li>
                          <i class="fas fa-heart"  class:active-like={$likeClick}/>
-                        {$likeClick}
                          {$likeCount === 0 ? '' : $likeCount}
                     </li>
                     <li>
